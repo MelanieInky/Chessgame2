@@ -245,7 +245,7 @@ void Board::display(int i , int j) const
 			std::cout << "q";
 			break;
 		case LKing:
-			std::cout << "k";
+			std::cout << "K";
 			break;
 		case LKnight:
 			std::cout << "k";
